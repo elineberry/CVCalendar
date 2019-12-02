@@ -14,6 +14,6 @@ s.source_files  = 'CVCalendar/*.swift'
 s.requires_arc = true
 
 # This is not accurate anymore as different versions are supported, but no range possible as of today
-s.swift_version = '4.2'
+#s.swift_version = '4.2'
 
 end
